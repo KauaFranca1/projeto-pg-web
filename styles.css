@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    border-bottom: solid 5px rgb(47, 72, 135);
+    border-bottom: solid 5px rgb(255, 255, 255);
     padding: 29px;
     font-size: 32px;
     color: rgb(255, 255, 255);
@@ -59,6 +59,7 @@ p {
     color: rgb(11, 61, 30);
 
 }
+
 
 
 
